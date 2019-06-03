@@ -6,7 +6,7 @@ def roll
   # code goes here
   x = rand(5)
   sum = x + 1
-  puts sum
+  return sum
 end
 
 roll
