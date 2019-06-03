@@ -4,7 +4,7 @@
 
 def roll
   # code goes here
-  x = rand(1)
+  x = rand(5)+1
   puts x
 end
 
