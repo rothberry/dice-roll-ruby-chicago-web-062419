@@ -7,4 +7,4 @@ def roll
   x = rand(10)
 end
 
-roll
+puts roll
