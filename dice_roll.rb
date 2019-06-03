@@ -5,6 +5,7 @@
 def roll
   # code goes here
   x = rand(10)
+  puts x
 end
 
 puts roll
