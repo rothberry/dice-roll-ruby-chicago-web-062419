@@ -8,4 +8,3 @@ def roll
   puts x
 end
 
-roll
