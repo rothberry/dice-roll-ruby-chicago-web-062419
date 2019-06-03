@@ -6,3 +6,5 @@ def roll
   # code goes here
   x = rand(10)
 end
+
+roll
